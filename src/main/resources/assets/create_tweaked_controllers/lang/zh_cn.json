@@ -1,7 +1,7 @@
 {
-    "block.create_tweaked_controllers.tweaked_lectern_controller": "Tweaked Lectern Controller",
+    "block.create_tweaked_controllers.tweaked_lectern_controller": "增强型遥控器讲台",
     
-    "item.create_tweaked_controllers.tweaked_linked_controller": "Tweaked Linked Controller",
+    "item.create_tweaked_controllers.tweaked_linked_controller": "增强型无线红石遥控器",
     
     "item.create_tweaked_controllers.tweaked_linked_controller.tooltip": "TWEAKED LINKED CONTROLLER",
     "item.create_tweaked_controllers.tweaked_linked_controller.tooltip.summary": "可_遥控_分配给游戏控制器的_无线红石信号终端_。",
@@ -61,8 +61,8 @@
     "create_tweaked_controllers.gui_gamepad_axis_8": "左扳机键",
     "create_tweaked_controllers.gui_gamepad_axis_9": "右扳机键",
     
-    "create_tweaked_controllers.gui_input_joystick_axis": "移动摇杆 %1$s",
-    "create_tweaked_controllers.gui_input_joystick_button": "按下摇杆 %1$s",
+    "create_tweaked_controllers.gui_input_joystick_axis": "街机摇杆 %1$s",
+    "create_tweaked_controllers.gui_input_joystick_button": "街机按键 %1$s",
     "create_tweaked_controllers.gui_input_keyboard": "%1$s 按键",
     "create_tweaked_controllers.gui_input_cursor_vel": "指针 %1$s 速度",
     "create_tweaked_controllers.gui_input_cursor_pos": "指针 %1$s 位置",
@@ -95,7 +95,7 @@
     "create_tweaked_controllers.menu.wiki": "在线 Wiki",
     "create_tweaked_controllers.menu.config_general": "常规设置",
     "create_tweaked_controllers.menu.config_controller": "控制器设置",
-    "create_tweaked_controllers.menu.config_disabled": "请在常规设置中启用自定义映射",
+    "create_tweaked_controllers.menu.config_disabled": "请在常规设置中启用自定义映射（滚轮下拉到底部的Use Custom Mappings）",
     
     "_": "EOF"
 }
