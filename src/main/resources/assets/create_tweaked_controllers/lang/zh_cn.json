@@ -1,7 +1,7 @@
 {
-    "block.create_tweaked_controllers.tweaked_lectern_controller": "增强型遥控器讲台",
+    "block.create_tweaked_controllers.tweaked_lectern_controller": "改进型遥控器讲台",
     
-    "item.create_tweaked_controllers.tweaked_linked_controller": "增强型无线红石遥控器",
+    "item.create_tweaked_controllers.tweaked_linked_controller": "改进型无线红石遥控器",
     
     "item.create_tweaked_controllers.tweaked_linked_controller.tooltip": "TWEAKED LINKED CONTROLLER",
     "item.create_tweaked_controllers.tweaked_linked_controller.tooltip.summary": "可_遥控_分配给游戏控制器的_无线红石信号终端_。",
